@@ -12,4 +12,4 @@ Include the visualization in your project by adding the following script tag:
 
 ## Demo
 
-Visit the [demo page](https://dangqwe46.github.io/subtotal-pages/) to see the visualization in action. 
+Visit the [demo page](https://dangqwe46.github.io/subtotal-pages/subtotal.js) to see the visualization in action. 
